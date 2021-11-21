@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:prod": "tsc & pm2-runtime start ecosystem.config.js --env production",
+    "start:BookService": "pm2 start ecosystem.config.js --env development",
+    "start:HttpService": "pm2 start ecosystem-httpserver.config --env development",
+    "type": "git",
+    "url": "git+https://github.com/vochihieu8320/gRPC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vochihieu8320/gRPC/issues"
+  },
+  "homepage": "https://github.com/vochihieu8320/gRPC#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "express": "^4.17.1",
+    "grpc": "^1.24.11",
+    "mongoose": "^6.0.13"
+  }
+}

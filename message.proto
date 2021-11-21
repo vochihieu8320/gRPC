@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package todo;
+
+message Books {
+    string id = 1;    
+    string name = 2;
+    string type_id = 3;
+    string author = 4;
+}
+
+
+
+service BookService {
+    rpc getBooks (Empty) returns (stream Books) {}
+    rpc createBooks (Books) returns (Books){}
+}
+
+
+message skip{
+    string id = 1;
+}
+
+message Empty {}
+
+message BookList {
+    repeated Books books = 1;
+}

@@ -1,0 +1,65 @@
+2021-11-21T19:49:31: Server running at http://127.0.0.1:50051
+2021-11-21T19:49:31: connect to mongoDB
+2021-11-21T19:51:05: Server running at http://127.0.0.1:50051
+2021-11-21T19:51:05: connect to mongoDB
+2021-11-21T19:52:20: Server running at http://127.0.0.1:50051
+2021-11-21T19:52:20: connect to mongoDB
+2021-11-21T19:54:20: Server running at http://127.0.0.1:50051
+2021-11-21T19:54:20: connect to mongoDB
+2021-11-21T19:55:39: Server running at http://127.0.0.1:50051
+2021-11-21T19:55:39: connect to mongoDB
+2021-11-21T19:56:57: Server running at http://127.0.0.1:50051
+2021-11-21T19:56:57: connect to mongoDB
+2021-11-21T19:58:00: Server running at http://127.0.0.1:50051
+2021-11-21T19:58:00: connect to mongoDB
+2021-11-21T19:58:01: book { id: '', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T19:59:07: Server running at http://127.0.0.1:50051
+2021-11-21T19:59:07: connect to mongoDB
+2021-11-21T19:59:13: book { id: '675733', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:00:32: book { id: '298967', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:02:00: book { id: '292116', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:04:07: Server running at http://127.0.0.1:50051
+2021-11-21T20:04:07: connect to mongoDB
+2021-11-21T20:04:13: book { id: '821517', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:04:13: {
+2021-11-21T20:04:13:   name: 'vochihieu0000',
+2021-11-21T20:04:13:   author: 'sssss',
+2021-11-21T20:04:13:   type_id: '11',
+2021-11-21T20:04:13:   _id: new ObjectId("619a43cd9a0facd05f5ee518"),
+2021-11-21T20:04:13:   createdAt: 2021-11-21T13:04:13.708Z,
+2021-11-21T20:04:13:   updatedAt: 2021-11-21T13:04:13.708Z,
+2021-11-21T20:04:13:   __v: 0
+2021-11-21T20:04:13: }
+2021-11-21T20:04:13: { id: '821517', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:08:55: Server running at http://127.0.0.1:50051
+2021-11-21T20:08:55: connect to mongoDB
+2021-11-21T20:10:08: Server running at http://127.0.0.1:50051
+2021-11-21T20:10:08: connect to mongoDB
+2021-11-21T20:10:38: Server running at http://127.0.0.1:50051
+2021-11-21T20:10:38: connect to mongoDB
+2021-11-21T20:11:27: Server running at http://127.0.0.1:50051
+2021-11-21T20:11:27: connect to mongoDB
+2021-11-21T20:11:29: book { id: '77902', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:11:29: {
+2021-11-21T20:11:29:   name: 'vochihieu0000',
+2021-11-21T20:11:29:   author: 'sssss',
+2021-11-21T20:11:29:   type_id: '11',
+2021-11-21T20:11:29:   _id: new ObjectId("619a458156cf0c231645e1a6"),
+2021-11-21T20:11:29:   createdAt: 2021-11-21T13:11:29.077Z,
+2021-11-21T20:11:29:   updatedAt: 2021-11-21T13:11:29.077Z,
+2021-11-21T20:11:29:   __v: 0
+2021-11-21T20:11:29: }
+2021-11-21T20:11:29: { id: '77902', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:12:05: Server running at http://127.0.0.1:50051
+2021-11-21T20:12:05: connect to mongoDB
+2021-11-21T20:12:07: book { id: '921967', name: 'vochihieu0000', type_id: '11', author: 'sssss' }
+2021-11-21T20:12:07: {
+2021-11-21T20:12:07:   name: 'vochihieu0000',
+2021-11-21T20:12:07:   author: 'sssss',
+2021-11-21T20:12:07:   type_id: '11',
+2021-11-21T20:12:07:   _id: new ObjectId("619a45a7386101fcbfa5105d"),
+2021-11-21T20:12:07:   createdAt: 2021-11-21T13:12:07.937Z,
+2021-11-21T20:12:07:   updatedAt: 2021-11-21T13:12:07.937Z,
+2021-11-21T20:12:07:   __v: 0
+2021-11-21T20:12:07: }
+2021-11-21T20:12:07: { id: '921967', name: 'vochihieu0000', type_id: '11', author: 'sssss' }

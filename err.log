@@ -1,0 +1,1060 @@
+2021-11-21T17:19:01: Error: Failed to serialize message: expected object with BookList structure, got array instead
+2021-11-21T17:19:01:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:76:19)
+2021-11-21T17:19:01:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T17:19:01:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T17:19:01:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6:29
+2021-11-21T17:19:01:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T17:29:07: TypeError: callback is not a function
+2021-11-21T17:29:07:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:27
+2021-11-21T17:29:07:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T17:29:51: TypeError: callback is not a function
+2021-11-21T17:29:51:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:27
+2021-11-21T17:29:51:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:01:58: Error: Failed to serialize message: expected object with BookList structure, got array instead
+2021-11-21T18:01:58:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:76:19)
+2021-11-21T18:01:58:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T18:01:58:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T18:01:58:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6:30
+2021-11-21T18:01:58:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:02:26: TypeError: callback is not a function
+2021-11-21T18:02:26:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:02:26:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:05:02: TypeError: callback is not a function
+2021-11-21T18:05:02:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:05:02:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:13:16: TypeError: callback is not a function
+2021-11-21T18:13:16:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:13:16:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:14:30: TypeError: callback is not a function
+2021-11-21T18:14:30:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:14:30:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:14:44: TypeError: callback is not a function
+2021-11-21T18:14:44:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:14:44:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:16:09: TypeError: callback is not a function
+2021-11-21T18:16:09:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:16:09:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:16:54: ReferenceError: result is not defined
+2021-11-21T18:16:54:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:46
+2021-11-21T18:16:54:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:17:33: TypeError: callback is not a function
+2021-11-21T18:17:33:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:17:33:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:18:18: TypeError: callback is not a function
+2021-11-21T18:18:18:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6:30
+2021-11-21T18:18:18:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:48:38: TypeError: callback is not a function
+2021-11-21T18:48:38:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:7:30
+2021-11-21T18:48:38:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:52:45: TypeError: callback is not a function
+2021-11-21T18:52:45:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:16:27
+2021-11-21T18:52:45:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:54:00: TypeError: callback is not a function
+2021-11-21T18:54:00:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:17:27
+2021-11-21T18:54:00:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:54:46: TypeError: callback is not a function
+2021-11-21T18:54:46:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:19:17
+2021-11-21T18:54:46:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:55:07: TypeError: callback is not a function
+2021-11-21T18:55:07:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:19:17
+2021-11-21T18:55:07:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:57:34: TypeError: callback is not a function
+2021-11-21T18:57:34:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:29:13)
+2021-11-21T18:57:34:     at C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:644:13
+2021-11-21T18:58:09: TypeError: callback is not a function
+2021-11-21T18:58:09:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:29:13)
+2021-11-21T18:58:09:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T18:59:45: TypeError: callback is not a function
+2021-11-21T18:59:45:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:29:20)
+2021-11-21T18:59:45:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:01:01: TypeError: callback is not a function
+2021-11-21T19:01:01:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:11:20)
+2021-11-21T19:01:01:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:02:03: TypeError: callback is not a function
+2021-11-21T19:02:03:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:11:20)
+2021-11-21T19:02:03:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:05:54: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:54: Require stack:
+2021-11-21T19:05:54: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:54:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:54:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:54:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:54:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:54:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:54:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:54:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:54:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:54:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:54:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:54:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:54:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:54: }
+2021-11-21T19:05:55: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:55: Require stack:
+2021-11-21T19:05:55: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:55:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:55:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:55:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:55:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:55:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:55:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:55:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:55: }
+2021-11-21T19:05:55: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:55: Require stack:
+2021-11-21T19:05:55: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:55:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:55:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:55:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:55:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:55:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:55:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:55:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:55: }
+2021-11-21T19:05:55: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:55: Require stack:
+2021-11-21T19:05:55: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:55:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:55:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:55:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:55:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:55:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:55:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:55:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:55:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:55:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:55:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:55: }
+2021-11-21T19:05:56: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:56: Require stack:
+2021-11-21T19:05:56: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:56:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:56:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:56:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:56:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:56:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:56:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:56:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:56: }
+2021-11-21T19:05:56: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:56: Require stack:
+2021-11-21T19:05:56: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:56:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:56:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:56:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:56:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:56:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:56:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:56:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:56: }
+2021-11-21T19:05:56: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:56: Require stack:
+2021-11-21T19:05:56: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:56:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:56:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:56:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:56:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:56:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:56:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:56:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:56: }
+2021-11-21T19:05:56: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:56: Require stack:
+2021-11-21T19:05:56: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:56:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:56:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:56:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:56:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:56:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:56:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:56:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:56:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:56:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:56:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:56: }
+2021-11-21T19:05:57: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:57: Require stack:
+2021-11-21T19:05:57: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:57:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:57:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:57:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:57:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:57:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:57:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:57:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:57: }
+2021-11-21T19:05:57: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:57: Require stack:
+2021-11-21T19:05:57: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:57:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:57:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:57:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:57:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:57:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:57:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:57:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:57: }
+2021-11-21T19:05:57: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:57: Require stack:
+2021-11-21T19:05:57: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:57:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:57:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:57:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:57:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:57:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:57:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:57:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:57:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:57:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:57:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:57: }
+2021-11-21T19:05:58: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:58: Require stack:
+2021-11-21T19:05:58: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:58:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:58:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:58:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:58:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:58:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:58:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:58:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:58: }
+2021-11-21T19:05:58: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:58: Require stack:
+2021-11-21T19:05:58: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:58:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:58:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:58:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:58:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:58:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:58:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:58:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:58: }
+2021-11-21T19:05:58: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:58: Require stack:
+2021-11-21T19:05:58: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:58:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:58:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:58:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:58:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:58:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:58:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:58:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:58: }
+2021-11-21T19:05:58: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:58: Require stack:
+2021-11-21T19:05:58: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:58:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:58:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:58:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:58:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:58:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:58:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:58:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:58:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:58:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:58:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:58: }
+2021-11-21T19:05:59: Error: Cannot find module './src/db/db '
+2021-11-21T19:05:59: Require stack:
+2021-11-21T19:05:59: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:05:59:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:05:59:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:05:59:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:05:59:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:05:59:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:05:59:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:05:59:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:05:59:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:05:59:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:05:59:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:05:59:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:05:59:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:05:59: }
+2021-11-21T19:06:22: TypeError: db is not a function
+2021-11-21T19:06:22:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:22:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:22:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:22:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:22:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:22:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:22:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:22:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:22:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:23: TypeError: db is not a function
+2021-11-21T19:06:23:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:23:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:23:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:23:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:23:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:23:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:23:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:23:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:23: TypeError: db is not a function
+2021-11-21T19:06:23:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:23:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:23:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:23:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:23:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:23:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:23:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:23:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:23:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:24: TypeError: db is not a function
+2021-11-21T19:06:24:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:24:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:24:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:24:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:24:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:24:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:24:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:24:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:24: TypeError: db is not a function
+2021-11-21T19:06:24:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:24:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:24:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:24:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:24:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:24:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:24:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:24:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:24:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:25: TypeError: db is not a function
+2021-11-21T19:06:25:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:25:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:25:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:25:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:25:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:25:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:25: TypeError: db is not a function
+2021-11-21T19:06:25:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:25:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:25:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:25:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:25:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:25:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:26: TypeError: db is not a function
+2021-11-21T19:06:26:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:26:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:26:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:26:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:26:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:26:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:26:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:26:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:27: TypeError: db is not a function
+2021-11-21T19:06:27:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:27:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:27: TypeError: db is not a function
+2021-11-21T19:06:27:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:27:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:28: TypeError: db is not a function
+2021-11-21T19:06:28:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:28:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:28:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:28:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:28:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:28:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:29: TypeError: db is not a function
+2021-11-21T19:06:29:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:29:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:29: TypeError: db is not a function
+2021-11-21T19:06:29:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:29:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:30: TypeError: db is not a function
+2021-11-21T19:06:30:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:30:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:30:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:30:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:30:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:30:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:30: TypeError: db is not a function
+2021-11-21T19:06:30:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:30:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:30:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:30:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:30:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:30:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:31: TypeError: db is not a function
+2021-11-21T19:06:31:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:35:1)
+2021-11-21T19:06:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:31:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:31:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:06:31:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:06:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:06:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:06:31:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:06:31:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:14: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:14:             const result = await db.getAllBooks();
+2021-11-21T19:07:14:                            ^^^^^
+2021-11-21T19:07:14: 
+2021-11-21T19:07:14: SyntaxError: await is only valid in async function
+2021-11-21T19:07:14:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:14:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:14:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:14:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:14:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:14:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:14:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:14: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:14:             const result = await db.getAllBooks();
+2021-11-21T19:07:14:                            ^^^^^
+2021-11-21T19:07:14: 
+2021-11-21T19:07:14: SyntaxError: await is only valid in async function
+2021-11-21T19:07:14:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:14:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:14:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:14:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:14:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:14:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:14:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:14: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:14:             const result = await db.getAllBooks();
+2021-11-21T19:07:14:                            ^^^^^
+2021-11-21T19:07:14: 
+2021-11-21T19:07:14: SyntaxError: await is only valid in async function
+2021-11-21T19:07:14:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:14:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:14:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:14:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:14:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:14:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:14:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:14: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:14:             const result = await db.getAllBooks();
+2021-11-21T19:07:14:                            ^^^^^
+2021-11-21T19:07:14: 
+2021-11-21T19:07:14: SyntaxError: await is only valid in async function
+2021-11-21T19:07:14:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:14:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:14:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:14:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:14:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:14:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:14:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:14:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:14:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:15: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:15:             const result = await db.getAllBooks();
+2021-11-21T19:07:15:                            ^^^^^
+2021-11-21T19:07:15: 
+2021-11-21T19:07:15: SyntaxError: await is only valid in async function
+2021-11-21T19:07:15:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:15:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:15:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:15:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:15:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:15:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:15:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:15:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:15: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:15:             const result = await db.getAllBooks();
+2021-11-21T19:07:15:                            ^^^^^
+2021-11-21T19:07:15: 
+2021-11-21T19:07:15: SyntaxError: await is only valid in async function
+2021-11-21T19:07:15:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:15:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:15:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:15:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:15:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:15:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:15:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:15:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:15: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:15:             const result = await db.getAllBooks();
+2021-11-21T19:07:15:                            ^^^^^
+2021-11-21T19:07:15: 
+2021-11-21T19:07:15: SyntaxError: await is only valid in async function
+2021-11-21T19:07:15:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:15:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:15:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:15:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:15:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:15:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:15:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:15:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:15:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:16: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:16:             const result = await db.getAllBooks();
+2021-11-21T19:07:16:                            ^^^^^
+2021-11-21T19:07:16: 
+2021-11-21T19:07:16: SyntaxError: await is only valid in async function
+2021-11-21T19:07:16:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:16:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:16:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:16:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:16:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:16:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:16:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:16: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:16:             const result = await db.getAllBooks();
+2021-11-21T19:07:16:                            ^^^^^
+2021-11-21T19:07:16: 
+2021-11-21T19:07:16: SyntaxError: await is only valid in async function
+2021-11-21T19:07:16:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:16:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:16:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:16:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:16:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:16:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:16:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:16: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:16:             const result = await db.getAllBooks();
+2021-11-21T19:07:16:                            ^^^^^
+2021-11-21T19:07:16: 
+2021-11-21T19:07:16: SyntaxError: await is only valid in async function
+2021-11-21T19:07:16:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:16:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:16:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:16:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:16:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:16:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:16:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:16: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:16:             const result = await db.getAllBooks();
+2021-11-21T19:07:16:                            ^^^^^
+2021-11-21T19:07:16: 
+2021-11-21T19:07:16: SyntaxError: await is only valid in async function
+2021-11-21T19:07:16:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:16:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:16:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:16:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:16:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:16:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:16:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:16:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:16:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:17: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:17:             const result = await db.getAllBooks();
+2021-11-21T19:07:17:                            ^^^^^
+2021-11-21T19:07:17: 
+2021-11-21T19:07:17: SyntaxError: await is only valid in async function
+2021-11-21T19:07:17:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:17:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:17:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:17:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:17:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:17:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:17:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:17:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:17: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:17:             const result = await db.getAllBooks();
+2021-11-21T19:07:17:                            ^^^^^
+2021-11-21T19:07:17: 
+2021-11-21T19:07:17: SyntaxError: await is only valid in async function
+2021-11-21T19:07:17:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:17:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:17:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:17:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:17:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:17:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:17:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:17:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:17: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:17:             const result = await db.getAllBooks();
+2021-11-21T19:07:17:                            ^^^^^
+2021-11-21T19:07:17: 
+2021-11-21T19:07:17: SyntaxError: await is only valid in async function
+2021-11-21T19:07:17:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:17:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:17:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:17:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:17:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:17:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:17:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:17:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:17:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:18: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:18:             const result = await db.getAllBooks();
+2021-11-21T19:07:18:                            ^^^^^
+2021-11-21T19:07:18: 
+2021-11-21T19:07:18: SyntaxError: await is only valid in async function
+2021-11-21T19:07:18:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:18:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:18:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:18:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:18:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:18:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:18:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:18:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:18:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:18:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:18: C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:6
+2021-11-21T19:07:18:             const result = await db.getAllBooks();
+2021-11-21T19:07:18:                            ^^^^^
+2021-11-21T19:07:18: 
+2021-11-21T19:07:18: SyntaxError: await is only valid in async function
+2021-11-21T19:07:18:     at wrapSafe (internal/modules/cjs/loader.js:988:16)
+2021-11-21T19:07:18:     at Module._compile (internal/modules/cjs/loader.js:1036:27)
+2021-11-21T19:07:18:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:18:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:18:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:18:     at Module.require (internal/modules/cjs/loader.js:961:19)
+2021-11-21T19:07:18:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:80:39)
+2021-11-21T19:07:18:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:18:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:3:24)
+2021-11-21T19:07:18:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:25: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:25: Require stack:
+2021-11-21T19:07:25: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:25:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:25:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:25:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:25:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:25:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:25:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:25:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:25:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:25:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:25:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:25:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:25: }
+2021-11-21T19:07:26: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:26: Require stack:
+2021-11-21T19:07:26: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:26:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:26:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:26:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:26:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:26:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:26:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:26:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:26:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:26:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:26:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:26:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:26:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:26: }
+2021-11-21T19:07:27: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:27: Require stack:
+2021-11-21T19:07:27: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:27:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:27:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:27:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:27:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:27:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:27:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:27:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:27: }
+2021-11-21T19:07:27: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:27: Require stack:
+2021-11-21T19:07:27: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:27:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:27:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:27:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:27:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:27:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:27:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:27:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:27:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:27:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:27:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:27:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:27: }
+2021-11-21T19:07:28: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:28: Require stack:
+2021-11-21T19:07:28: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:28:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:28:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:28:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:28:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:28:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:28:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:28:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:28:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:28:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:28: }
+2021-11-21T19:07:28: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:28: Require stack:
+2021-11-21T19:07:28: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:28:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:28:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:28:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:28:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:28:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:28:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:28:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:28:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:28:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:28:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:28:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:28: }
+2021-11-21T19:07:29: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:29: Require stack:
+2021-11-21T19:07:29: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:29:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:29:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:29:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:29:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:29:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:29:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:29:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:29: }
+2021-11-21T19:07:29: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:29: Require stack:
+2021-11-21T19:07:29: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:29:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:29:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:29:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:29:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:29:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:29:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:29:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:29:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:29:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:29:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:29:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:29: }
+2021-11-21T19:07:30: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:30: Require stack:
+2021-11-21T19:07:30: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:30:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:30:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:30:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:30:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:30:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:30:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:30:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:30:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:30:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:30:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:30:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:30: }
+2021-11-21T19:07:31: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:31: Require stack:
+2021-11-21T19:07:31: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:31:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:31:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:31:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:31:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:31:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:31:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:31:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:31:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:31:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:31: }
+2021-11-21T19:07:31: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:31: Require stack:
+2021-11-21T19:07:31: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:31:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:31:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:31:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:31:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:31:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:31:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:31:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:31:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:31:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:31:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:31:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:31: }
+2021-11-21T19:07:32: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:32: Require stack:
+2021-11-21T19:07:32: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:32:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:32:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:32:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:32:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:32:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:32:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:32:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:32:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:32:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:32:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:32:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:32:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:32: }
+2021-11-21T19:07:33: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:33: Require stack:
+2021-11-21T19:07:33: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:33:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:33:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:33:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:33:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:33:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:33:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:33:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:33:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:33:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:33:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:33:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:33:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:33: }
+2021-11-21T19:07:33: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:33: Require stack:
+2021-11-21T19:07:33: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:33:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:33:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:33:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:33:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:33:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:33:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:33:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:33:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:33:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:33:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:33:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:33:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:33: }
+2021-11-21T19:07:34: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:34: Require stack:
+2021-11-21T19:07:34: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:34:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:34:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:34:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:34:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:34:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:34:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:34:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:34:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:34:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:34:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:34:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:34:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:34: }
+2021-11-21T19:07:34: Error: Cannot find module './src/db/db '
+2021-11-21T19:07:34: Require stack:
+2021-11-21T19:07:34: - C:\Users\84929\Desktop\gRPC\server\index.js
+2021-11-21T19:07:34:     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:889:15)
+2021-11-21T19:07:34:     at Module.Hook._require.Module.require (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+2021-11-21T19:07:34:     at require (internal/modules/cjs/helpers.js:92:18)
+2021-11-21T19:07:34:     at Object.<anonymous> (C:\Users\84929\Desktop\gRPC\server\index.js:4:12)
+2021-11-21T19:07:34:     at Module._compile (internal/modules/cjs/loader.js:1072:14)
+2021-11-21T19:07:34:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+2021-11-21T19:07:34:     at Module.load (internal/modules/cjs/loader.js:937:32)
+2021-11-21T19:07:34:     at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+2021-11-21T19:07:34:     at Object.<anonymous> (C:\Users\84929\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2021-11-21T19:07:34:     at Module._compile (internal/modules/cjs/loader.js:1072:14) {
+2021-11-21T19:07:34:   code: 'MODULE_NOT_FOUND',
+2021-11-21T19:07:34:   requireStack: [ 'C:\\Users\\84929\\Desktop\\gRPC\\server\\index.js' ]
+2021-11-21T19:07:34: }
+2021-11-21T19:08:14: TypeError: callback is not a function
+2021-11-21T19:08:14:     at Object.getList [as getBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:11:20)
+2021-11-21T19:08:14:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:45:11: ReferenceError: book is not defined
+2021-11-21T19:45:11:     at Object.addBook [as createBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:17:14)
+2021-11-21T19:45:11:     at C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:594:13
+2021-11-21T19:45:50: ReferenceError: book is not defined
+2021-11-21T19:45:50:     at Object.addBook [as createBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:17:14)
+2021-11-21T19:45:50:     at C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:594:13
+2021-11-21T19:46:58: ReferenceError: book is not defined
+2021-11-21T19:46:58:     at Object.addBook [as createBooks] (C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:18:20)
+2021-11-21T19:46:58:     at C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:594:13
+2021-11-21T19:55:41: TypeError: Cannot read property 'id' of undefined
+2021-11-21T19:55:41:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T19:55:41:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T19:55:41:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T19:55:41:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T19:55:41:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T19:55:41:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:57:02: TypeError: Cannot read property 'name' of undefined
+2021-11-21T19:57:02:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T19:57:02:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T19:57:02:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T19:57:02:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T19:57:02:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T19:57:02:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:58:01: TypeError: Cannot read property 'id' of undefined
+2021-11-21T19:58:01:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T19:58:01:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T19:58:01:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T19:58:01:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T19:58:01:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T19:58:01:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T19:59:13: TypeError: Cannot read property 'id' of undefined
+2021-11-21T19:59:13:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T19:59:13:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T19:59:13:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T19:59:13:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T19:59:13:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T19:59:13:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T20:00:32: TypeError: Cannot read property 'id' of undefined
+2021-11-21T20:00:32:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T20:00:32:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T20:00:32:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T20:00:32:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T20:00:32:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T20:00:32:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T20:02:00: TypeError: Cannot read property 'id' of undefined
+2021-11-21T20:02:00:     at Type.Books$fromObject [as fromObject] (eval at Codegen (C:\Users\84929\Desktop\gRPC\server\node_modules\@protobufjs\codegen\index.js:50:33), <anonymous>:7:8)
+2021-11-21T20:02:00:     at serialize (C:\Users\84929\Desktop\gRPC\server\node_modules\@grpc\proto-loader\build\src\index.js:78:29)
+2021-11-21T20:02:00:     at sendUnaryResponse (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:95:15)
+2021-11-21T20:02:00:     at sendUnaryData (C:\Users\84929\Desktop\gRPC\server\node_modules\grpc\src\server.js:601:9)
+2021-11-21T20:02:00:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:21:17
+2021-11-21T20:02:00:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-11-21T20:11:29: ReferenceError: callback is not defined
+2021-11-21T20:11:29:     at C:\Users\84929\Desktop\gRPC\server\src\controller\book.controller.js:25:17
+2021-11-21T20:11:29:     at processTicksAndRejections (internal/process/task_queues.js:95:5)
